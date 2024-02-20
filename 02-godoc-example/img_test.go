@@ -4,7 +4,7 @@ import (
 	"fmt"
 	_ "image/png"
 	"io"
-	example "test/2-godoc-example"
+	example "test/02-godoc-example"
 	"testing"
 )
 
